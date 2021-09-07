@@ -1,0 +1,36 @@
+{
+  "client_id": "32555940559.apps.googleusercontent.com",
+  "client_secret": "ZmssLNjJy2998hD4CTg2ejr2",
+  "id_token": {
+    "at_hash": "7CQ0dtnDkCevou5tyg65lg",
+    "aud": "32555940559.apps.googleusercontent.com",
+    "azp": "32555940559.apps.googleusercontent.com",
+    "email": "gerialworld@gmail.com",
+    "email_verified": true,
+    "exp": 1560611564,
+    "iat": 1560607964,
+    "iss": "https://accounts.google.com",
+    "sub": "102990358289023835396"
+  },
+  "refresh_token": "1/vBP7bu3mVY72dFt8bfkUwTdXo5FmSq78LAM4IzyrlGo",
+  "revoke_uri": "https://accounts.google.com/o/oauth2/revoke",
+  "scopes": [
+    "https://www.googleapis.com/auth/drive",
+    "https://www.googleapis.com/auth/appengine.admin",
+    "https://www.googleapis.com/auth/accounts.reauth",
+    "https://www.googleapis.com/auth/cloud-platform",
+    "https://www.googleapis.com/auth/compute",
+    "https://www.googleapis.com/auth/userinfo.email"
+  ],
+  "token_response": {
+    "access_token": "ya29.GlsoB20hZXJv7juHxGnTfCifITL3bAOe2e64Xos-irGU6s8CxvZ7M3gJc2KnFSIYx1ZyDUo8vtEW2hiWeI171gMB3mkFei04zmgpK-CJbHMgEUBskyURFubTlFUA",
+    "expires_in": 3600,
+    "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijg0NmRkYWY4OGNjMTkyMzUyMjFjOGVlMGRmYTNiYjQ2YWUyN2JmZmMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIzMjU1NTk0MDU1OS5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsImF1ZCI6IjMyNTU1OTQwNTU5LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAyOTkwMzU4Mjg5MDIzODM1Mzk2IiwiZW1haWwiOiJnZXJpYWx3b3JsZEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6IjdDUTBkdG5Ea0Nldm91NXR5ZzY1bGciLCJpYXQiOjE1NjA2MDc5NjQsImV4cCI6MTU2MDYxMTU2NH0.QtoH1MQnO-VbpvLcy6TXi5_6oHPn9Bpc1TFj9vfSH-cIExyldCX2WZkEuCCP-hWh2LfX0so1vt8EQvdDDquaPBOVslOxeWwL647VzwbaTyhhJj2MKdK_1hMXQUNx-cqy5nxr8dzxDwT5P-wvd3aYC0LC37Kn1JVJ1Wub1OXnHziV9pMqMSW7Xv3uLmtVTUwttaJqGAl31Fl9H1nPiTd5aXkQPX8ACPpIEPE9P3LUIXnbGPDE9eZfwBjgw5CkEL6NUrsNQo9DYtgU0K6uhqzpVzYokMmCOLXqi1taB6dByHHqltindeqti0iI82Wy2mnEdRQj-NIBb6Ll3W9FavB3cw",
+    "refresh_token": "1/vBP7bu3mVY72dFt8bfkUwTdXo5FmSq78LAM4IzyrlGo",
+    "scope": "https://www.googleapis.com/auth/compute https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/appengine.admin https://www.googleapis.com/auth/accounts.reauth https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/drive openid",
+    "token_type": "Bearer"
+  },
+  "token_uri": "https://www.googleapis.com/oauth2/v4/token",
+  "type": "authorized_user",
+  "user_agent": "google-cloud-sdk"
+}
